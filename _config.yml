@@ -103,5 +103,5 @@ theme: 3-hexo
 
 deploy:
   type: git
-  repo: https://github.com/kenyon01/hexo-blog.git
+  repo: git@github.com:kenyon01/hexo-blog.git
   branch: gh-pages
